@@ -7,10 +7,10 @@ This project was completed on 29 May 2016 as the fifth coding project in the COE
 Command Line Arguments
 -----------------------
 make treesort 
-- Compiles code for treesort program
+- Compiles code for the treesort program
 
 ./treesort
-- Executes code for treesort program
+- Executes code for the treesort program
 
 make huffman 
 - Compiles code for huffman compression
